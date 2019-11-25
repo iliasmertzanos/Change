@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChangeCalculatorTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2019-11-25T21:21:03" hostname="ltimertzanidis" time="0.086">
+  <properties/>
+  <testcase name="errorIfNoCombinationCanAddUpToTarget" classname="ChangeCalculatorTest" time="0.051"/>
+  <testcase name="noCoinsMake0Change" classname="ChangeCalculatorTest" time="0.017"/>
+  <testcase name="changeWithLilliputianCoins" classname="ChangeCalculatorTest" time="0.001"/>
+  <testcase name="changeWithLowerElboniaCoins" classname="ChangeCalculatorTest" time="0.002"/>
+  <testcase name="errorTestingForChangeSmallerThanTheSmallestCoin" classname="ChangeCalculatorTest" time="0.002"/>
+  <testcase name="possibleChangeWithoutUnitCoinsAvailable" classname="ChangeCalculatorTest" time="0.0"/>
+  <testcase name="singleCoinChange" classname="ChangeCalculatorTest" time="0.0"/>
+  <testcase name="largeTargetValues" classname="ChangeCalculatorTest" time="0.005"/>
+  <testcase name="multipleCoinChange" classname="ChangeCalculatorTest" time="0.0"/>
+  <testcase name="anotherPossibleChangeWithoutUnitCoinsAvailable" classname="ChangeCalculatorTest" time="0.0"/>
+  <testcase name="cannotFindNegativeChangeValues" classname="ChangeCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

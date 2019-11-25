@@ -1,0 +1,1 @@
+C:\Users\imertzanidis\Exercism\kotlin\change\build\classes\kotlin\main\ChangeCalculator$$special$$inlined$sortedBy$1.class;C:\Users\imertzanidis\Exercism\kotlin\change\build\classes\kotlin\main\ChangeCalculator.class
